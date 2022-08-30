@@ -625,6 +625,10 @@ html {
   bottom: 0px;
 }
 
+.right-10 {
+  right: 2.5rem;
+}
+
 .z-10 {
   z-index: 10;
 }
@@ -750,6 +754,10 @@ html {
 
 .w-44 {
   width: 11rem;
+}
+
+.w-auto {
+  width: auto;
 }
 
 .max-w-\[250px\] {
